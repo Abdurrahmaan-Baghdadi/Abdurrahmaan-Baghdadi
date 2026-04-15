@@ -1,84 +1,68 @@
-# Abdurrahmaan Baghdadi — AI Researcher · Full-Stack Engineer · Security Practitioner
+# ⚡ ABDURRAHMAAN BAGHDADI
+### AI Researcher • Full-Stack Engineer • Security Practitioner
 
-M.S. Artificial Intelligence student at **UT Austin** with **5+ years of research experience** across IoT security, applied machine learning, and full-stack systems. Currently doing multimodal AI research on pediatric brain tumor diagnosis. Built production systems that measurably cut equipment loss; placed competitively in an industry-sponsored ML competition against 40 teams backed by Phillips66, Chevron, and ExxonMobil. **CompTIA Security+** certified.
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-red?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-UT_AUSTIN-black?style=for-the-badge&logo=utexas&logoColor=red" />
+  <img src="https://img.shields.io/badge/VIBE-FUTURISTIC-red?style=for-the-badge&logo=ferrari&logoColor=white" />
+</p>
 
 ---
 
-## Featured Projects
+## 🛰️ MISSION OVERVIEW
+M.S. Artificial Intelligence student at **UT Austin** with **5+ years of research experience** across IoT security, applied machine learning, and full-stack systems. Currently conducting multimodal AI research on pediatric brain tumor diagnosis. Built production systems that measurably cut equipment loss; placed competitively in industry-sponsored ML competitions.
 
-**[Energy AI Hackathon — Mission Impossible](https://github.com/Abdurrahmaan-Baghdadi)** &nbsp;·&nbsp; *Jan 2026*
-> Sole programmer on an interdisciplinary team competing against 40 teams in an energy-sector ML challenge sponsored by Phillips66, Chevron, and ExxonMobil. Built an ensemble stacking pipeline (HGB / GBR / ExtraTrees / Ridge) with GroupKFold cross-validation, physics-based imputation, and domain-engineered features (RQI, FZI). Achieved **R² = 0.9849 out-of-fold** — among the highest in the competition.
+---
+
+## 🏆 FEATURED INTEL (Detailed Projects)
+
+### 🔴 [Energy AI Hackathon — Mission Impossible](https://github.com/Abdurrahmaan-Baghdadi)
+**Sole Programmer** on an interdisciplinary team competing against 40 teams (sponsored by Phillips66, Chevron, ExxonMobil).
+* **Technical Specs:** Built ensemble stacking pipeline (HGB / GBR / ExtraTrees / Ridge).
+* **Optimization:** Implemented GroupKFold cross-validation, physics-based imputation, and domain-engineered features (RQI, FZI).
+* **Result:** Achieved **R² = 0.9849 out-of-fold**.
 `Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy`
 
----
+### 🛡️ [IoT Lab Inventory & Digital Forensics](https://github.com/Abdurrahmaan-Baghdadi)
+* **Lab Management:** Shipped RESTful API and DB abstraction layer for 50–100 devices; **reduced equipment loss by 25%**.
+* **Forensics Platform:** Investigation of consumer IoT via firmware extraction (Autopsy/Emba), traffic capture (Wireshark), and artifact recovery (ELK Stack).
+* **Compliance:** Led PostgreSQL-based firmware integrity project benchmarked against **NIST criteria**.
+`React.js` `TypeScript` `Flask` `Elastic Stack` `Kali Linux`
 
-**[Lab Inventory Management System](https://github.com/Abdurrahmaan-Baghdadi)** &nbsp;·&nbsp; *UTSA IoT Security Lab*
-> Full-stack web app managing 50–100 physical IoT lab devices. Shipped RESTful API item issuance, a DB abstraction layer, and unit test coverage. Deployed in active research use — **reduced equipment loss by 25%**.
-`React.js` `TypeScript` `Python` `Flask` `MySQL`
-
----
-
-**[IoT Digital Forensics Platform](https://github.com/Abdurrahmaan-Baghdadi)**
-> Forensic investigation of consumer IoT devices: firmware extraction and analysis via Autopsy and Emba, network traffic capture via Wireshark, artifact recovery via Elastic Stack (ELK). Also led a PostgreSQL-based firmware integrity project benchmarked against NIST compliance criteria.
-`Wireshark` `Autopsy` `Emba` `Elastic Stack` `PostgreSQL` `Kali Linux`
-
----
-
-**[Easy-Encryption](https://github.com/Abdurrahmaan-Baghdadi)**
-> Java desktop app implementing AES-256-GCM authenticated encryption with PBKDF2 key derivation — password-based file encryption/decryption with zero third-party crypto dependencies.
-`Java` `AES-256-GCM` `PBKDF2`
+### 🧠 [Deep Learning & Encryption Series](https://github.com/Abdurrahmaan-Baghdadi)
+* **Computer Vision:** CNN classification, multi-task segmentation/detection, and Transformer-based trajectory prediction with full TensorBoard instrumentation.
+* **Cryptography:** Developed "Easy-Encryption" (Java) using **AES-256-GCM** and **PBKDF2** with zero third-party dependencies.
+`PyTorch` `Transformers` `CNNs` `Java` `AES-256`
 
 ---
 
-**[Deep Learning Graduate Series — UT Austin](https://github.com/Abdurrahmaan-Baghdadi)**
-> Four-part coursework progression: CNN image classification → multi-task computer vision (segmentation + detection) → Transformer-based trajectory prediction. Built and trained each architecture end-to-end with full TensorBoard instrumentation.
-`PyTorch` `TensorBoard` `Transformers` `CNNs`
+## 🛠️ TECH STACK (System Capabilities)
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Artificial Intelligence** | `PyTorch` `Scikit-learn` `XGBoost` `HuggingFace Transformers` `Pandas` `NumPy` `Jupyter` `TensorBoard` |
+| **Security & Infrastructure** | `Security+` `Wireshark` `Nmap` `ELK Stack` `ROCK NSM` `Autopsy` `Emba` `Kali Linux` `AWS EC2` |
+| **Languages** | `Python` `TypeScript` `JavaScript` `SQL` `Java` `ANSI C` `Bash` `R` `PHP` `C#` |
+| **Web & Databases** | `React.js` `Flask` `Node.js` `Express` `PostgreSQL` `MySQL` `MongoDB` `Nginx` |
 
 ---
 
-**[Foothies](https://github.com/Abdurrahmaan-Baghdadi)**
-> Full-stack restaurant ordering app with session-based auth (Passport.js + bcrypt), shopping cart, and a RESTful MongoDB + Express/Node.js backend. Collaborative team project.
-`Node.js` `Express` `MongoDB` `Passport.js` `bcrypt`
+## 🧪 CURRENT OPERATIONS
+* **Multimodal Pathology AI:** Benchmarking vision-language models (**WSI-LLaVA, Quilt-LLaVA, Concept Bottleneck Models, WSI-VQA**) for pediatric brain tumor diagnosis at the **UT Austin Pediatric Brain Tumor AI Lab**.
+* **Graduate Coursework:** Machine Learning (AI 391L), Deep Learning, and Analysis of Algorithms at UT Austin.
 
 ---
 
-## Tech Stack
-
-**Languages**
-`Python` `TypeScript` `JavaScript` `SQL` `Java` `ANSI C` `Bash` `R` `PHP` `C#`
-
-**ML & Data Science**
-`PyTorch` `Scikit-learn` `XGBoost` `HuggingFace Transformers` `Pandas` `NumPy` `Jupyter` `TensorBoard` `LaTeX`
-
-**Web & Databases**
-`React.js` `Flask` `Node.js` `Express` `PostgreSQL` `MySQL` `MongoDB` `Nginx`
-
-**Security & Infrastructure**
-`Wireshark` `Nmap` `Elastic Stack (ELK)` `ROCK NSM` `Autopsy` `Emba` `Kali Linux` `AWS EC2` `VMware` `Linux`
+## 🎓 ACADEMIC PROTOCOLS
+* **M.S. Artificial Intelligence** — University of Texas at Austin (Exp. 2027)
+* **B.S. Computer Science (Cybersecurity Minor)** — UTSA (*Summa Cum Laude*, 3.93 GPA)
+* **Certifications:** CompTIA Security+ • DeepLearning.AI ML/Math Specializations
 
 ---
 
-## Currently Working On
-
-**Multimodal Pathology AI** — Benchmarking vision-language models (WSI-LLaVA, Quilt-LLaVA, Concept Bottleneck Models, WSI-VQA) for pediatric brain tumor diagnosis via whole slide image (WSI) analysis at the **UT Austin Pediatric Brain Tumor AI Lab** (Prof. Ying Ding).
-
-**Graduate Coursework** — Machine Learning (AI 391L), Deep Learning, and Analysis of Algorithms at UT Austin.
-
----
-
-## Education & Certifications
-
-- **M.S. Artificial Intelligence** — University of Texas at Austin *(Expected May 2027)*
-- **B.S. Computer Science, Minor in Cybersecurity** — UTSA, *summa cum laude*, 3.93 GPA *(May 2024)*
-  Dean's List · Honors Program · Distinguished Presidential Scholarship
-- **CompTIA Security+** (Jul 2024)
-- **DeepLearning.AI** — Supervised ML, Advanced Learning Algorithms, Linear Algebra for ML & DS, Calculus for ML & DS *(2025)*
-
----
-
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdurrahmaan--baghdadi.github.io-blue?style=flat-square)](https://abdurrahmaan-baghdadi.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdurrahmaan--baghdadi-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdurrahmaan-baghdadi)
-[![GitHub](https://img.shields.io/badge/GitHub-Abdurrahmaan--Baghdadi-181717?style=flat-square&logo=github)](https://github.com/Abdurrahmaan-Baghdadi)
-[![Email](https://img.shields.io/badge/Email-abdurrahmaanbaghdadi0@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:abdurrahmaanbaghdadi0@gmail.com)
+## 🔗 CONNECT
+<p align="left">
+<a href="https://linkedin.com/in/abdurrahmaan-baghdadi"><img src="https://img.shields.io/badge/LinkedIn-abdurrahmaan--baghdadi-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://abdurrahmaan-baghdadi.github.io"><img src="https://img.shields.io/badge/Portfolio-Personal_Site-red?style=for-the-badge&logo=react" /></a>
+<a href="mailto:abdurrahmaanbaghdadi0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+</p>
