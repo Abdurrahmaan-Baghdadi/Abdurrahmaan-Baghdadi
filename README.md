@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Abdurrahmaan Baghdadi Banner">
+</p>
 # ⚡ ABDURRAHMAAN BAGHDADI
 ### AI Researcher • Full-Stack Engineer • Security Practitioner
 
